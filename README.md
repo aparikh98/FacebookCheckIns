@@ -1,1 +1,1 @@
-# FacebookCheckInts
+# FacebookCheckIns
